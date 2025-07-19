@@ -1,6 +1,29 @@
 # Notes from practice exams
 
 
+
+
+
+
+
+
+
+
+- `Knowledge Bases for Amazon Bedrock` takes care of the entire ingestion workflow of converting your documents into embeddings (vector) and storing the embeddings in a specialized vector database. `Knowledge Bases for Amazon Bedrock `supports popular databases for vector storage, including vector engine for Amazon OpenSearch Serverless, Pinecone, Redis Enterprise Cloud, Amazon Aurora, and MongoDB.
+  - If you do not have an existing vector database, `Amazon Bedrock creates an OpenSearch Serverless vector` store for you.
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## ML 
 - `Hyperparameter tuning` is a method to adjust the behavior of an ML algorithm. You can make changes to an ML model by using hyperparameter tuning to modify the behavior of the algorithm.
 - `Feature engineering` is a method to select and transform variables when you create a predictive model. Feature engineering includes feature creation, feature transformation, feature extraction, and feature selection. Feature engineering enhances the data by increasing the number of variables in the training dataset to ultimately improve model performance.
